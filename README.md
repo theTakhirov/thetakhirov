@@ -27,7 +27,7 @@ const hobbies = [
   'watching anime (japanese animation films)'
 ]
 
-const me = { firstName, lastName, skills, hobbies }
+export const me = { firstName, lastName, skills, hobbies }
 
 ```
 
